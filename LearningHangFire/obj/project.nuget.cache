@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LaWGhkuJMe6gnIN3rEWeTZ4LiS8nnHKrWZstM0EyV3btUdTJOTlncXSUxibUlon4oxpB7zx6MeNINB++BBL0cw==",
+  "success": true,
+  "projectFilePath": "C:\\Web Projects\\testing-hangfire\\LearningHangFire\\LearningHangFire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\hangfire.aspnetcore\\1.7.22\\hangfire.aspnetcore.1.7.22.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\hangfire.core\\1.7.22\\hangfire.core.1.7.22.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\hangfire.memorystorage\\1.7.0\\hangfire.memorystorage.1.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
